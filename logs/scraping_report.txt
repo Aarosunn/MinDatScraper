@@ -1,0 +1,14 @@
+
+            Mindat Scraping Report
+            =====================
+            Total minerals processed: 4
+            Successfully scraped: 0
+            Failed: 4
+            Success rate: 0.0%
+        
+            Failed minerals:
+            - Ulexite
+- Aragonite
+- Azurite
+- Calcite
+        
